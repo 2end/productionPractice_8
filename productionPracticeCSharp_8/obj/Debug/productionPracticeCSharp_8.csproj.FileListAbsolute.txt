@@ -1,0 +1,7 @@
+c:\users\roman\source\repos\productionPracticeCSharp_8\productionPracticeCSharp_8\bin\Debug\productionPracticeCSharp_8.exe.config
+c:\users\roman\source\repos\productionPracticeCSharp_8\productionPracticeCSharp_8\bin\Debug\productionPracticeCSharp_8.exe
+c:\users\roman\source\repos\productionPracticeCSharp_8\productionPracticeCSharp_8\bin\Debug\productionPracticeCSharp_8.pdb
+c:\users\roman\source\repos\productionPracticeCSharp_8\productionPracticeCSharp_8\obj\Debug\productionPracticeCSharp_8.csprojResolveAssemblyReference.cache
+c:\users\roman\source\repos\productionPracticeCSharp_8\productionPracticeCSharp_8\obj\Debug\productionPracticeCSharp_8.csproj.CoreCompileInputs.cache
+c:\users\roman\source\repos\productionPracticeCSharp_8\productionPracticeCSharp_8\obj\Debug\productionPracticeCSharp_8.exe
+c:\users\roman\source\repos\productionPracticeCSharp_8\productionPracticeCSharp_8\obj\Debug\productionPracticeCSharp_8.pdb
